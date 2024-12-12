@@ -3,7 +3,7 @@
     <img src="memetica/kannon.png" width="215" /></a><br>
   <b>kannon: storytelling engaging aesthetic</b><br>
 	
-  <b>A New Era of Visual Storytelling Begins 🌊</b><br>
+  <b>An AI Tool For Learning</b><br>
 </h1>
 
 <p align="center">
