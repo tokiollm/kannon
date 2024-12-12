@@ -2,7 +2,8 @@
   <a href="https://www.instagram.com/kannonsea/">
     <img src="memetica/kannon.png" width="215" /></a><br>
   <b>kannon: storytelling engaging aesthetic</b><br>
-  <b>Launch Date: December 14, 2024 — A New Era of Visual Storytelling Begins 🌊</b><br>
+	
+  <b>A New Era of Visual Storytelling Begins 🌊</b><br>
 </h1>
 
 <p align="center">
